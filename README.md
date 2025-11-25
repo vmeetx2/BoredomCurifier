@@ -29,3 +29,5 @@ Tree data structure intro
 Binary search tree
 Tree traversal
 Calculate execution time
+
+UPDATE: WHAT WAS IMPLEMENTING A HASHMAP IN C LIKE BROOOOOO
